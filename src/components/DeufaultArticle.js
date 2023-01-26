@@ -1,4 +1,3 @@
-import React from "react";
 const DefaultArticle = (props)=>{
     return(
     <article className="column is-4-desktop is-4-tablet is-12-mobile is-relative">
